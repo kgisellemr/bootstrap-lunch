@@ -1,0 +1,34 @@
+:root {
+    --bs-white: #fff;
+    --bs-success: #28a745;
+    --bs-dark: #212529;
+    --bs-gray: #707070;
+}
+
+.green-color-bg {
+    background-color: var(--bs-success);
+}
+
+.green-color {
+    color: var(--bs-success);
+}
+
+.white-color {
+    color: var(--bs-white) !important;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.gray-color {
+    color: var(--bs-gray) !important;
+}
+
+.dark-color {
+    color: var(--bs-dark) !important
+}
+
+.vertical-end {
+    align-items: end;
+}
